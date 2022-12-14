@@ -1,0 +1,3 @@
+total value is :  30
+total value is :  8
+total value is :  3000
